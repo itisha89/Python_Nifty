@@ -44,4 +44,8 @@ The dataset has been collected from Bloomberg over the past 5 years (every 6 mon
 2. **Clustering (K-Means)**:
    - K-Means clustering is used to categorize the data into groups with similar characteristics. This helps in identifying the most important factors and reducing the dimensionality of the dataset.
    - It also provides insights into how the data points are distributed and grouped, aiding in the categorization of similar data points for better predictions.
+   - 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
 
+---
